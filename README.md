@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/gopalkarhale6031/Leetcode-DSA/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/gopalkarhale6031/Leetcode-DSA/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/gopalkarhale6031/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -18,4 +19,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/gopalkarhale6031/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gopalkarhale6031/Leetcode-DSA/tree/master/0283-move-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/gopalkarhale6031/Leetcode-DSA/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/gopalkarhale6031/Leetcode-DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/gopalkarhale6031/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
