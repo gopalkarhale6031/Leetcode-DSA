@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/gopalkarhale6031/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/gopalkarhale6031/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gopalkarhale6031/Leetcode-DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/gopalkarhale6031/Leetcode-DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Array
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/gopalkarhale6031/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gopalkarhale6031/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gopalkarhale6031/Leetcode-DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/gopalkarhale6031/Leetcode-DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
